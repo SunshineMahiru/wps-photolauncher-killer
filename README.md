@@ -5,4 +5,5 @@ The original author of the source code should retain the ownership. If there are
 
 - **How To Use**
 Just run the .reg
-URL：**https://zhuanlan.zhihu.com/p/692931285**
+
+- URL：**https://zhuanlan.zhihu.com/p/692931285**
